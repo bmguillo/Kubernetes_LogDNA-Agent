@@ -10,4 +10,4 @@ Step 2: After provisioning, access your instance by:
 - "logging" tab on left toolbar
 - "edit log sources" 
 
-Step 2: Provision a Kubernetes Cluster
+Step 3: Provision a Kubernetes Cluster and set up CLI tools to access it
