@@ -27,7 +27,8 @@ Step 7: (Optional) Deploying Kubernetes-native apps in clusters https://cloud.ib
 
 Additional Resources:
 - LogDNA's collector agent which streams log files to your LogDNA account. Works with Linux, Windows, and macOS servers & Kubernetes clusters https://logdna.com https://github.com/logdna/logdna-agent
-Analyzing metrics for an app deployed to a Kubernetes cluster/Sysdig monitoring https://cloud.ibm.com/docs/services/Monitoring-with-Sysdig/tutorials?topic=Sysdig-kubernetes_cluster#kubernetes_cluster
+- Analyzing metrics for an app deployed to a Kubernetes cluster/Sysdig monitoring https://cloud.ibm.com/docs/services/Monitoring-with-Sysdig/tutorials?topic=Sysdig-kubernetes_cluster#kubernetes_cluster
+- Activity Trackign with LogDNA https://cloud.ibm.com/docs/services/Activity-Tracker-with-LogDNA?topic=logdnaat-cloud_services#cloud_services
 
 Potential Issues:
 Schema error with Kubernetes: https://stackoverflow.com/questions/55417410/kubernetes-create-deployment-unexpected-schemaerror
