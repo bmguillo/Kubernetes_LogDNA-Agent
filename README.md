@@ -11,3 +11,5 @@ Step 2: After provisioning, access your instance by:
 - "edit log sources" 
 
 Step 3: Provision a Kubernetes Cluster and set up CLI tools to access it
+
+Step 4: Managing Kubernetes cluster logs with IBM Cloud Log Analysis with LogDNA https://cloud.ibm.com/docs/services/Log-Analysis-with-LogDNA/tutorials?topic=LogDNA-kube#kube
