@@ -14,6 +14,10 @@ Step 3: Provision a Kubernetes Cluster and set up CLI tools to access it
 
 Step 4: Managing Kubernetes cluster logs with IBM Cloud Log Analysis with LogDNA https://cloud.ibm.com/docs/services/Log-Analysis-with-LogDNA/tutorials?topic=LogDNA-kube#kube
 
+Step 5: Adding an IBM Cloud service to your cluster https://cloud.ibm.com/docs/containers?topic=containers-cs_cluster_tutorial
+
+Step 6: Binding Watson Assistant(formerly Conversation) a Kubernetes POD to https://developer.ibm.com/recipes/tutorials/bind-the-watson-conversation-service-to-a-bluemix-container-service-kubernetes-pod/
+
 
 
 
